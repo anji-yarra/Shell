@@ -2,4 +2,4 @@
 
 # ECHO is used to print the matter
 
-echo "Hello, World!, Welcome to our shell scripting world"
+echo "Hello, User!, Welcome to our shell scripting world"
