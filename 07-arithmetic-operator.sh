@@ -1,5 +1,5 @@
-Read -p "Enter a A value" A
-Read -p "Enter a B value" B
+read -p "Enter a A value" A
+read -p "Enter a B value" B
 
 echo $((A+B)) # Addition
 echo $((A-B)) # Subtraction 
