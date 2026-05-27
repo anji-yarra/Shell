@@ -7,4 +7,4 @@ echo "I'm $Age years old"
 
 
 Fruits=("Apple","Banana","Mango")
-echo "My favorite fruits are ${fruits[0]}, ${fruits[1]}, ${fruits[2]}"
+echo "My favorite fruits are ${fruits[@]}"
