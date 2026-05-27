@@ -6,7 +6,7 @@ then
 elif [ $Marks -ge 70 ]
 then 
     echo "Grade B"
-elif [ $Marks -ge 50]
+elif [ $Marks -ge 50 ]
 then
     echo "Grade C"
 else 
