@@ -1,5 +1,9 @@
 #!/bin/bash
 
-if [ -f shell/01-Hello-world.sh ]; then
+FILE="/root/shell/01-Hello-world.sh"
+
+if [ -f $FILE ]; then
     echo " Exists"
+else 
+    echo "Doesn't exists"
 fi
