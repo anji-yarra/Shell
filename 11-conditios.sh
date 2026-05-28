@@ -1,5 +1,5 @@
 #!/bin/bash
 
-if [ -f shell/01-Hello-worls.sh ]; then
+if [ -f shell/01-Hello-world.sh ]; then
     echo " Exists"
 fi
